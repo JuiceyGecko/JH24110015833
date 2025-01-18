@@ -1,0 +1,65 @@
+ Questions For Task 1: 
+ * An algorithm for the flow chart below: 
+ 
+ Start the initial Process by finding the subject for the alogrithm ( in this case  what needs to happen with X and Y) 
+ 
+ Gather data for "X" and "Y". 
+ 
+ Calculate the values for "S, "A", and "P". 
+ 
+ Display data for "S, "A", and "P".  
+ 
+ End Process 
+ 
+  ----------------------------------------------
+ * An algorithm that reads a grocery list and prints out the products
+ (in alphabetical order) that are still left to buy (you can decide 
+ what these are). 
+ 
+ request grocery list 
+ 
+ Sort grocery list into "bought" and "non-bought" items 
+ 
+  if the items are "bought" sort alphabetically 
+ 
+ if the items are "non-bought" sort alphabetically
+ 
+ ------------------------------------------------
+ 
+ *An Algoritm that reads an arbitrary number of integers and then returns 
+ their arthmetic average 
+ 
+ Begin the initial process 
+ 
+ Find the different number of integers 
+ 
+ use something to keep track of the amount of integers avaialable 
+ 
+ Work out the average of the amount of integers gathered 
+ 
+ Display average of integers
+ 
+ ----------------------------------------------------------
+ 
+ *An algorithm that requests a user to input their name and then
+ stores their name in a variable called FIRST_NAME. Subsequently,
+ the algorithm should print out FIRST_NAME along with the phrase 
+ "hello world". 
+ 
+ request user name
+ 
+ store user name in a variable called FIRST_NAME
+ 
+ when user name is printed, print HELLO WORLD next to their name
+ 
+--------------------------------------------------------------
+
+ *An algorithm that asks a user to enter a positive number repeatdely
+until the user enters a zero value, then determines and outputs the
+largest of the numbers that were input. 
+
+Request user name 
+
+User repeatedly enters numbers until the user enters 0 
+
+when the user enters 0, Display the largest number that was entered by user
