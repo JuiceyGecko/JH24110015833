@@ -1,0 +1,71 @@
+Question 1: 
+
+*An algorithm that asks a user to enter a positive number repeatdely
+until the user enters a zero value, then determines and outputs the
+largest of the numbers that were input. 
+
+Request user name 
+
+User repeatdely enters numbers until the user enters 0 
+
+Update the user that the program is tracking the largest number entered 
+
+When the user enters 0, print the largest number that was entered by the user
+
+Question 2: 
+
+An algorithm that requests a user to input their name and then
+stores their name in a variable called first_name. Subsequently, the
+algorithm should print out first_name along with the phrase “Hello,
+World”.
+
+request user name
+ 
+store user name in a variable called FIRST_NAME
+ 
+Print "user_name" and "HELLO WORLD" 
+
+*Question 3
+
+*An Algoritm that reads an arbitrary number of integers and then returns 
+their arthmetic average 
+
+Begin the initial process
+
+Find the different number of integers 
+
+Use a variable called "count" to keep track of the amount of integers
+
+Use a variable called "total" to calculate the total number of integers entered
+
+Then take "total" and divide it by "count" for the average of the integers
+
+Print the average amount of integers 
+
+*Question 4
+
+* An algorithm that reads a grocery list and prints out the products
+(in alphabetical order) that are still left to buy (you can decide 
+what these are). 
+
+Request grocery list 
+
+Sort the list into "bought" and "non-bought" items
+
+Sort the "non-bought" items alphabetical 
+
+Display the "non-bought" items 
+
+*Question 5
+
+* An algorithm for the flow chart: 
+
+Start Program
+
+Gather data for "X" and "Y". 
+
+Calculate the values for "S = X + Y" and "A = S / 2" and "P = X x Y" 
+
+Display data for the calculations   
+
+End process
