@@ -1,6 +1,4 @@
-# ASk user to enter all three sides of a triangle
-# Calculate the Area of the triangle 
-# Print out the area of the triangle
+
 
 side1 = int(input("Enter the first side of the triangle: "))
 side2 = int(input("Enter the second side of the triangle: "))
