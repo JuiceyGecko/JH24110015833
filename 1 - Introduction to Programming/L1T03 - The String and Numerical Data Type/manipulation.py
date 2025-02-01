@@ -1,26 +1,26 @@
 # Compulsory Task 2#
 
-# Ask the user to enter a sentence using the input() method 
-# Save the users response in a variable called str_manip.
-# Calculate and print the length of str_manip. 
-# Find the last letter in str_manip. 
-# Replace every occurrence of this letter in str_manip with ‘@’.
-# Print the last 3 characters in str_manip backwards.
-# Create a five-letter word that is made up of the first three characters and the last two characters in str_manip.
-
 str_manip = input("Enter a sentence: ")
-print(len(str_manip))
-last_letter = str_manip[-1]
-print(last_letter)
-replace_last_letter = str_manip.replace(last_letter, "@") 
-print(replace_last_letter)
-intermediate = replace_last_letter[-3:]
-print(intermediate[::-1])
-word = str_manip[:3] + str_manip[-2:]
-print(word)
+print("length:", len(str_manip))
+last_char = str_manip[-1]
+print("last character:", last_char)
+replace_char = str_manip[:-1] + "@"
+replace_char = replace_char.replace(last_char, "@")
+print("replaced character:", replace_char)
+print("last three characters:", str_manip[-3:])
+combine = str_manip[:3] + str_manip[-2:]
+print("combined string:", combine)
+
+# I redid the task i dont know what else to do 
+
+
+
+
+
+
 
 # End of Compulsory Task 2#
-#NOt sure if i did this right , 
+
 
 
 
