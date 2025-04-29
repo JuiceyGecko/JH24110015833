@@ -1,0 +1,51 @@
+"""1. Defining the following terms"""
+
+Data: information that is important, such as facts or figures
+that has not been organized. It is the basic building block of information.
+Data can be numbers or text.
+
+Field: is an important piece of information on one singular topic. It is the smallest
+and most meaningful unit in a database. In most customer databases, the first name
+is the most important part. That would be considered a field.
+
+Record: is a complete set of related fields about one group. For customers, this would
+include their phone numbers or addresses all grouped together in one "record".
+
+File: is a collection of the necessary records. Possibly a table for all the customers'
+records.
+
+"""2. What is DBMS and what are the advantages"""
+
+DBMS: helps create, manage and control access to databases. Some
+of the advantages are improved data integration. This provides a unified view of an
+organization's data. Increased productivity; there's quicker access to information.
+Improved decision making; the information that the DBMS helps create will have much higher
+quality information, so will help in decision making. There are quicker responses to queries.
+There will be fewer errors as it eliminates multiple entries of data. Also many users are
+able to gain access at the same time.
+
+"""3. The difference between data and information"""
+
+Information is data that has been processed and data is the unprocessed parts of numbers or text
+that haven't been organized.
+
+Data: Joseph, South Africa, 40, retired, Single
+
+Information: Joseph is 40 years old, retired and living in South Africa
+
+"""4. What is metadata?"""
+
+This gathers information about data that already exists. It will give users
+information from current databases.
+
+This could be the data types, or relationships between data.
+
+"""5. e) How many records does the file contain?"""
+
+4 records under PROJECT_CODE.
+(21-5U), (21-7Y), (25-9T), (29-7P).
+     
+      f) How many fields are there per record?
+
+5 fields are present.
+PROJECT_CODE, PROJECT_MANAGER, MANAGER_PHONE, MANAGER_ADDRESS, PROJECT_BID_PRICE
