@@ -1,0 +1,78 @@
+Question 1: Appropriate Software Models for Different Systems
+
+1. A system to control anti-lock braking in a car
+
+
+Waterfall model 
+
+* If the system is complex and requires a lot of 
+trial and error, waterfall model is ideal.
+
+* Once the objectives are met and arent going to change therafter waterfall model s ideal
+
+* Changes should be fixed and shouldnt change once implemented as it can be expensive, 
+waterfall model is ideal.
+
+2. A virtual reality system to support software maintenance
+
+Incremental Development model
+
+* A user will give feedback while testing and changes will be able to be made easier.
+
+* Users will help make the model better over time.
+
+* Users will help improve later versions of the software over time.
+
+* VR needs users to interact and givefeedback in order for better improvements to be mad.
+
+3. A university accounting system that replaces an existing system
+
+Reuse-Oriented Software Engineering Model
+
+* There are systems that are in place that can be reused to improve / replace current system.
+
+* Time taken will be cut in half by using the existing software that already works
+
+* There is historical data with accounting software, can be used to help with imrpoving/ replacing the existing versions
+
+4. An interactive travel planning system that helps users plan trips with the lowest environmental impact
+
+Incremental Development Model
+
+* Users will be able to directly give feedback to help with functionality. 
+
+* Different types of features can be added over time to help with the affect on the environmental impact
+
+Question 2: Why Incremental Development is Effective for Business Software Systems
+
+Flexibility: Incremental development adapts to changing needs without overhauls.
+
+Quick Value: Core features are delivered early for immediate use.
+
+User Input: Frequent releases ensure the product meets real needs.
+
+Lower Risk: Small updates catch issues early.
+
+Cost Control: Spread costs and adjust priorities as needed.
+
+Market Edge: Launch essential features fast, add improvements later.
+
+Simpler Testing: Smaller updates are easier to test thoroughly.
+
+Question 3: Two Requirements Engineering Steps in Reuse-Oriented Process
+
+Ideal Requirements: The first step defines what the system should do without considering existing components.
+
+Adjustments: The second step revises these requirements based on available components.
+
+Reasons for Two Steps:
+
+Components may not match original needs perfectly.
+
+Adjusting requirements is cheaper than custom development.
+
+Focuses on what's realistic and implementable.
+
+Highlights where new development is truly needed.
+
+Outcome: Balances ideal goals with practical solutions, ensuring a feasible and cost-effective system.
