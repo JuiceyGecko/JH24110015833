@@ -1,0 +1,97 @@
+Question 1: How does the waterfall methodology differ from agile?
+
+Testing: 
+
+* Waterfall: Testing will happen after building.
+* Agile: Testing is on going during the coding process
+
+Change: 
+
+* Waterfall: Changes dont happen once a phase is completed.
+* Agile: Changes are happening all the time. 
+
+Customer Involvement: 
+
+* Waterfall: Customers will give feedback during the early stages
+* Agile: Customers are incorporated during the whole process.
+
+Delivery: 
+
+* Waterfall: Product will be given at the very end.
+* Agile: Delivery happens more frequently as the product is much smaller.
+
+Documentation: 
+
+* Waterfall: Focuses on the documentation being done upfront.
+* Agile: Leans towards working software over documents.
+
+Structure: 
+
+* Waterfall: Follows a hierarchial process, from planning to building then testing.
+* Agile: Focuses on repeating the steps over time. 
+
+Question 2: Situations where Agile values could cause problems
+
+* -- People over processes
+  'Problem: In large groups inconsistencies will occur.
+
+* -- Working Software over documentation: 
+  'Problem: Insufficent documenation makes updates or handing over much more time consuming/challenging.
+
+* -- Customer collaboration over contracts: 
+  'Problem: Customers can make the workload endless if there are constant changes. 
+
+* -- Responding to change over sticking to a plan: 
+  'Problem: Set budgets and timeframes will cause the task to be completed a certain way, which lives little room for flexibility. 
+
+Question 3: Agile method 
+
+* -- Agile is a way to build software by:
+
+* Breaks work into smaller parts
+
+* Delivers working pieces every few weeks
+
+* Working close with Customers
+
+* Being open to changes
+
+* Improving all the time
+
+Instead of waiting months for one big release, Agile gives quick results and adapts as needs change. 
+Teams work in short cycles, check progress often, and adjust plans as they go.
+
+
+Question 4: Why requirements change so much
+Requirements change frequently because:
+
+Market Changes: Business needs and market conditions evolve rapidly, especially in technology.
+
+Better Understanding: As customers see working versions, they better understand what they really need versus what they initially asked for.
+
+Technical Discoveries: During development, teams may find better technical solutions or limitations that require requirement adjustments.
+
+Stakeholder Feedback: Different stakeholders may have conflicting or evolving visions for the product.
+
+Competitive Landscape: New competitors or technologies may emerge during development, necessitating changes.
+
+Budget/Time Constraints: Initial requirements may need adjustment when reality of implementation costs/time becomes clear.
+
+Regulatory Changes: Especially in industries like finance or healthcare, legal requirements may change during development.
+
+Question 5: Why testing first helps understand requirements
+Writing tests first (test-driven development) helps programmers better understand system requirements because:
+
+Forces Deep Understanding: To write a test, you must fully understand what the feature should do, including edge cases.
+
+Clarifies Specifications: The process of writing tests often reveals ambiguities or missing details in requirements.
+
+Concrete Examples: Tests provide executable examples of how the feature should behave, making abstract requirements more tangible.
+
+Focuses on Outcomes: Tests force thinking about the end result (what) rather than implementation details (how).
+
+Identifies Assumptions: Writing tests exposes assumptions the programmer might have made about the requirements.
+
+Provides Immediate Feedback: Tests give quick verification that the implementation matches requirements.
+
+Creates Living Documentation: The test suite becomes an always-up-to-date specification of the system's expected behavior.
