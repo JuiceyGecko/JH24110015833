@@ -1,0 +1,111 @@
+1. Possible Quality Standards for Real-World Products
+
+Mobile Game App
+
+- Performance:
+    - Smooth gameplay with fast loading times and no lag 
+    - Measured by frame rate, memory use, and load speed
+
+- Usability:
+    - Easy-to-use interface
+    - Simple navigation
+    - Accessibility features
+    - Tested with user feedback and experiments
+
+- Compatibility:
+    - Works well on different devices, screen sizes, and operating systems
+    - Tested on multiple devices
+
+- Security:
+    - Safe in-app purchases
+    - Protection against cheating or hacking (e.g., using OWASP guidelines)
+
+- Engagement Metrics:
+    - Tracks player retention, session lengths, and in-app purchases
+    - Measured with tools like Firebase
+
+- Standards:
+    - Follows ISO/IEC 25010 quality standards
+    - Meets app store rules for Apple and Google
+
+Banking Application
+
+- Security:
+    - Uses strong encryption
+    - Secure logins (like biometrics)
+    - Complies with laws like PCI-DSS and GDPR
+
+- Reliability:
+    - Ensures 99.99% uptime
+    - Accurate transactions
+    - Backup systems
+    - Tested with failure simulations
+
+- Performance:
+    - Processes transactions quickly
+    - Handles heavy usage without slowing down
+    - Tested under stress
+
+- Compliance:
+    - Meets all financial regulations (e.g., SOX or local banking laws)
+
+- Auditability:
+    - Tracks activity logs
+    - Creates reports for accountability
+    - Follows ISO 27001 standards
+
+Database for a Medical Organisation
+
+- Data Integrity:
+    - Follows rules to ensure data accuracy
+    - Complies with healthcare laws like HIPAA
+
+- Security:
+    - Limits data access to authorized users
+    - Encrypts sensitive information
+
+- Performance:
+    - Quick search and retrieval of data
+    - Optimized with indexes
+
+- Availability:
+    - Reliable backup systems
+    - Minimal downtime
+
+- Standards:
+    - Follows guidelines like HL7/FHIR for data sharing
+    - Follows HIPAA for protecting patient data
+
+2. High-Quality Process vs. High-Quality Product
+
+Why it leads to better products:
+- A good process ensures fewer mistakes and follows best practices (e.g., regular testing and reviews)
+- Standards like ISO 9001 help teams improve continuously
+
+Possible issues:
+- Too much paperwork: Strict processes can slow down progress
+- Overconfidence: Following a process doesn’t guarantee quality if the requirements are unclear
+- Lack of flexibility: Rules may not fit well with new tools or technologies
+
+3. Effectiveness of Program Inspections
+
+Why they work:
+- Early error detection: Catching bugs during planning or coding saves time and money
+- Team learning: Reviews improve knowledge sharing and coding consistency
+- Spotting design flaws: Inspections are great for finding errors in logic or algorithms
+
+Limitations:
+- Runtime errors: Problems like memory leaks need live testing
+- Integration issues: Some bugs only appear when combining system parts
+- Usability problems: User experience issues require testing with real users
+
+4. Difficulty Validating Internal vs. External Attributes
+
+Challenges:
+- Weak links: Internal measurements (e.g., code complexity) don’t always reflect external qualities (e.g., ease of use)
+- Context matters: A complex module might work fine if it’s rarely changed
+- No universal rules: For example, high test coverage doesn’t always mean the software is reliable
+- Human factor: External qualities like usability depend on how people perceive and interact with the product
+
+Example:
+- A system with simple connections between parts (internal) might still fail if error handling is poor (external).
