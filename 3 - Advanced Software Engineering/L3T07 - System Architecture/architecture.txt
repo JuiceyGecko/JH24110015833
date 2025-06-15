@@ -1,0 +1,43 @@
+Architecture Patterns: Examples & Combinations
+
+Real-World Examples:
+
+--Layered (n-tier) – E-commerce (Amazon)--
+
+*Clear separation (UI, logic, data)
+
+*Easy maintenance & scaling
+
+--Microkernel – Web browsers (Chrome), IDEs (VS Code)--
+
+*Stable core + extensible plugins
+
+*Third-party customization
+
+--Event-Driven – Stock trading, Uber--
+
+*Real-time event processing
+
+*Loose coupling & scalability
+
+--Microservices – Netflix, Uber--
+
+*Independent scaling & deployment
+
+*Fault isolation & team autonomy
+
+--Space-Based – Online gaming, ticket booking--
+
+*In-memory data for high scalability
+
+*Handles unpredictable traffic spikes
+
+Combined Patterns
+
+1.Microservices + Event-Driven (Amazon)
+
+*Modular services + real-time event communication
+
+2.Layered + Microkernel (WordPress)
+
+*Clean structure (layers) + plugin extensibility
